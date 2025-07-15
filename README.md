@@ -43,7 +43,7 @@ This Flask-based web application is a Q.A.T (Question, Answer & Test) system tha
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/QAT-Ed.git
+git clone https://github.com/Chigoziee/QAT-Ed.git
 cd QAT-Ed
 ```
 2. **Create Virtual Environment**
