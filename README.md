@@ -145,6 +145,9 @@ waitress-serve --host=0.0.0.0 --port=5006 src.app:app
 ## 📑 Postman Documentation
 https://documenter.getpostman.com/view/33819055/2sB34hH1X9
 
+## 📽 Demo Video
+https://drive.google.com/file/d/18WUoZS30G9hAF4IVsIPWUaSCC4qrDgMj/view?usp=sharing
+
 ## ✅ Notes
 - Ensure AWS credentials and OpenAI API key are valid.
 - You can inspect saved data in DynamoDB under the Files and Test tables.
