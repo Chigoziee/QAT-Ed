@@ -4,7 +4,7 @@ This Flask-based web application is a Q.A.T (Question, Answer & Test) system tha
 
 ---
 
-## ✨ Features
+## Features
 
 - Upload research documents (PDF format).
 - Ask questions related to the uploaded documents.
@@ -14,7 +14,7 @@ This Flask-based web application is a Q.A.T (Question, Answer & Test) system tha
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - **Flask** (Web framework)
 - **OpenAI GPT-4o API** (LLM processing)
@@ -64,7 +64,7 @@ AWS_ACCESS_KEY_ID=your-access-key
 AWS_SECRET_ACCESS_KEY=your-secret-key
 ```
 
-## 🔧 AWS DynamoDB Configuration (Required)
+## AWS DynamoDB Configuration (Required)
 Before running the application, you must create two DynamoDB tables in your AWS account:
 
 1. **Files Table**
@@ -77,7 +77,7 @@ Primary key: Test_id (Type: String)
 
 These tables are used to persist uploaded documents and test questions/answers for later evaluation.
 
-## 🧪 API Endpoints
+## API Endpoints
 
 **✅ /upload – Upload Research Document**
 
